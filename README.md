@@ -1,6 +1,6 @@
 # 🧩 Customer Retention Decision System
 ### Turning churn data into retention actions
-An interactive system that explains *why customers leave* and guides the right retention action — not just who might churn.
+### An interactive system that explains *why customers leave* and guides the right retention action - not just who might churn.
 
 This project explores a practical question:
 
